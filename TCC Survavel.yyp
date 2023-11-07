@@ -118,6 +118,7 @@
     {"id":{"name":"spr_slime_grande_sombra_strip6","path":"sprites/spr_slime_grande_sombra_strip6/spr_slime_grande_sombra_strip6.yy",},},
     {"id":{"name":"spr_personagem_parado_direita","path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},},
     {"id":{"name":"spr_hit","path":"sprites/spr_hit/spr_hit.yy",},},
+    {"id":{"name":"Conversa","path":"fonts/Conversa/Conversa.yy",},},
     {"id":{"name":"obj_transicao","path":"objects/obj_transicao/obj_transicao.yy",},},
     {"id":{"name":"scr_tile_flores","path":"sprites/scr_tile_flores/scr_tile_flores.yy",},},
     {"id":{"name":"spr_boss_idle_strip24","path":"sprites/spr_boss_idle_strip24/spr_boss_idle_strip24.yy",},},

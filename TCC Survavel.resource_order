@@ -87,6 +87,7 @@
     {"name":"spr_slime_grande_sombra_strip6","order":39,"path":"sprites/spr_slime_grande_sombra_strip6/spr_slime_grande_sombra_strip6.yy",},
     {"name":"spr_personagem_parado_direita","order":10,"path":"sprites/spr_personagem_parado_direita/spr_personagem_parado_direita.yy",},
     {"name":"spr_hit","order":3,"path":"sprites/spr_hit/spr_hit.yy",},
+    {"name":"Conversa","order":1,"path":"fonts/Conversa/Conversa.yy",},
     {"name":"obj_transicao","order":14,"path":"objects/obj_transicao/obj_transicao.yy",},
     {"name":"spr_boss_idle_strip24","order":45,"path":"sprites/spr_boss_idle_strip24/spr_boss_idle_strip24.yy",},
     {"name":"Ambiente2","order":1,"path":"rooms/Ambiente2/Ambiente2.yy",},
