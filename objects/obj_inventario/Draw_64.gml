@@ -34,7 +34,10 @@ if inventario == true {
 					if item_selecionado == grid_itens [# Infos.Item, i] and pos_selecionada != i{
 						grid_itens [# Infos.Quantidade,i] += grid_itens[# Infos.Quantidade,pos_selecionada];
 						
-						grid_itens[]
+						grid_itens[# Infos.Item, pos_selecionada] = -1;
+						grid_itens[# Infos.Quantidade,pos_selecionada] = -1;
+						item_selecionado = -1;
+						pos_selecionada = -1;
 					}
 					// caso 2 caso o slot selecionado seja vazio
 					
@@ -63,6 +66,9 @@ if inventario == true {
 			_ix = 0;
 			_iy ++;
 		}
+	}
+	if item_selecionado != 1{
+		draw_sprite_ext(spr_items,item_selecionado,_mx,_my,escala,escala)
 	}
 
 }
