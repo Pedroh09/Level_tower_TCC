@@ -113,6 +113,7 @@
     {"id":{"name":"scr_tile_flores50","path":"sprites/scr_tile_flores50/scr_tile_flores50.yy",},},
     {"id":{"name":"spr_pet_cima_strip16","path":"sprites/spr_pet_cima_strip16/spr_pet_cima_strip16.yy",},},
     {"id":{"name":"spr_personagem_correndo_baixo","path":"sprites/spr_personagem_correndo_baixo/spr_personagem_correndo_baixo.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"spr_pet_direita_strip16","path":"sprites/spr_pet_direita_strip16/spr_pet_direita_strip16.yy",},},
     {"id":{"name":"spr_personagem_correndo_baixo_strip6","path":"sprites/spr_personagem_correndo_baixo_strip6/spr_personagem_correndo_baixo_strip6.yy",},},
     {"id":{"name":"spr_slime_grande_sombra_strip6","path":"sprites/spr_slime_grande_sombra_strip6/spr_slime_grande_sombra_strip6.yy",},},
