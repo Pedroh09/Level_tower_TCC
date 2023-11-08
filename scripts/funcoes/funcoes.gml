@@ -55,3 +55,39 @@ function draw_text_colour_outline(){
  
     draw_text_ext(argument0,argument1,argument2,argument6,argument7);
 }
+
+function ds_grid_add_item(){
+
+//@arg item
+//@arg quantidade
+//@arg sprite
+
+	var _grid = obj_inventario.grid_itens;
+	var _checar = 0;
+	while _grid[# Infos.Item,_checar] != -1{
+			_checar++;
+	}
+	
+	_grid[# 0,_checar] = argument[0];
+	_grid[# 1,_checar] = argument[1];
+	_grid[# 2,_checar] = argument[2];
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

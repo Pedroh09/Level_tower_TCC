@@ -19,7 +19,7 @@
     {"name":"tutorial Gamemaker222","order":24,"path":"folders/tutorial Gamemaker222.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_items","order":3,"path":"sprites/spr_items/spr_items.yy",},
+    {"name":"spr_items_armas","order":3,"path":"sprites/spr_items_armas/spr_items_armas.yy",},
     {"name":"obj_flexa_efeito","order":11,"path":"objects/obj_flexa_efeito/obj_flexa_efeito.yy",},
     {"name":"spr_slime_sombra90","order":40,"path":"sprites/spr_slime_sombra90/spr_slime_sombra90.yy",},
     {"name":"obj_flecha","order":10,"path":"objects/obj_flecha/obj_flecha.yy",},

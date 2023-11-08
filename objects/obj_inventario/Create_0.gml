@@ -25,24 +25,26 @@ enum Item_Armas {
     altura
 }
 
+enum Item_Drop_monstro{
+	SlimeParte,
+	orkCapacete,
+	orkDente,
+	Altura
+
+}
+
 enum Infos {
     Item,
     Quantidade,
+	sprite,
     altura
 }
 
 grid_itens = ds_grid_create(2, total_slots); // Create a 2x(total_slots) grid
 ds_grid_set_region(grid_itens, 0, 0, 1, total_slots - 1, -1);
+ds_grid_add_item(Item_Armas.arco,1,spr_items_armas);
+ds_grid_add_item(Item_Armas.espada,3,spr_items_armas);
+ds_grid_add_item(Item_Armas.cajado,5,spr_items_armas);
 
-// primeiro slot
-grid_itens[#Infos.Item, 0] = Item_Armas.espada;
-grid_itens[#Infos.Quantidade, 0] = 2;
-// segundo slot
-grid_itens[#Infos.Item, 1] = Item_Armas.cajado;
-grid_itens[#Infos.Quantidade, 1] = 4;
-// terceiro slot
-grid_itens[#Infos.Item, 2] = Item_Armas.arco;
-grid_itens[#Infos.Quantidade, 2] = 6;
-// quarto slot
-grid_itens[#Infos.Item, 4] = Item_Armas.espada; // Changed from 4 to 3
-grid_itens[#Infos.Quantidade, 4] = 9; // Changed from 4 to 3
+ds_grid_add_item(Item_Drop_monstro.SlimeParte,65, spr_items_inimigos);
+ds_grid_add_item(Item_Drop_monstro.orkCapacete,2, spr_items_inimigos);
