@@ -158,6 +158,7 @@
     {"id":{"name":"ts_parede5","path":"tilesets/ts_parede5/ts_parede5.yy",},},
     {"id":{"name":"spr_personagem_parado_cima_strip6","path":"sprites/spr_personagem_parado_cima_strip6/spr_personagem_parado_cima_strip6.yy",},},
     {"id":{"name":"spr_inventario","path":"sprites/spr_inventario/spr_inventario.yy",},},
+    {"id":{"name":"obj_item","path":"objects/obj_item/obj_item.yy",},},
     {"id":{"name":"spr_flecha","path":"sprites/spr_flecha/spr_flecha.yy",},},
     {"id":{"name":"obj_parede","path":"objects/obj_parede/obj_parede.yy",},},
   ],

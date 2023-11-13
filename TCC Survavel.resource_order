@@ -125,6 +125,7 @@
     {"name":"spr_personagem_atacando_cima","order":1,"path":"sprites/spr_personagem_atacando_cima/spr_personagem_atacando_cima.yy",},
     {"name":"ts_parede5","order":8,"path":"tilesets/ts_parede5/ts_parede5.yy",},
     {"name":"spr_personagem_parado_cima_strip6","order":28,"path":"sprites/spr_personagem_parado_cima_strip6/spr_personagem_parado_cima_strip6.yy",},
+    {"name":"obj_item","order":1,"path":"objects/obj_item/obj_item.yy",},
     {"name":"spr_flecha","order":12,"path":"sprites/spr_flecha/spr_flecha.yy",},
     {"name":"obj_parede","order":1,"path":"objects/obj_parede/obj_parede.yy",},
   ],
