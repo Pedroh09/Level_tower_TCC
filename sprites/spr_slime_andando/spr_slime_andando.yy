@@ -30,8 +30,8 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Inimigos",
-    "path": "folders/Inimigos.yy",
+    "name": "slime_pequeno",
+    "path": "folders/Inimigos/slime_pequeno.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
